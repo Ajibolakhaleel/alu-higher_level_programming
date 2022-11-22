@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-"""lists the 10 most recent commits on a given GitHub repository.
+# python script that takes 2 arguments in order to solve HBTN GitHub challenge
+"""
+    take two arguments; 'repository name' & 'owner name',
+    in order to solve HBTN GitHub challenge
 """
 import sys
 import requests
